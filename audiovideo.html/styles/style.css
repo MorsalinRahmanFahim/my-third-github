@@ -1,0 +1,52 @@
+
+*{
+width: 1080px;
+margin-left: 20px;
+
+padding-top: 5px;
+
+
+}
+nav li{
+    list-style: none;
+    display: inline;
+    margin: 15px;
+}
+nav li:hover{
+    background-color: rgb(242, 120, 120);
+
+}
+
+nav li a{
+    text-decoration: none;
+}
+
+footer{
+
+    text-align: center;
+}
+h5{
+color: blue;
+text-align: center;
+font-size: larger;
+}
+article{
+
+    background-color: rgb(247, 210, 162);
+    border: 10px solid yellowgreen;
+   border-radius: 10px;
+ margin-top: 10px;
+  padding: 80px;
+
+  
+}
+    
+
+
+
+p{
+    text-align: left;
+    padding-right: 60px;
+    margin-right: 50px;
+    
+}
